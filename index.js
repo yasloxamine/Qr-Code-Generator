@@ -2,7 +2,7 @@ import inquirer from 'inquirer';
 import qr from 'qr-image';
 import fs from 'fs';
 
-console.log("---------------QR CODE GENERATOR BY YASLO MOHAMED AMINE------------------ but not really i got help from npm library XD");
+console.log("---------------QR CODE GENERATOR BY YASLO MOHAMED AMINE------------------");
 
 inquirer
   .prompt([
